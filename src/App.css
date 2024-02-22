@@ -1,0 +1,17 @@
+.container-calc{
+    border: black solid;
+    width: 300px;
+    height: 400px;
+    margin-left: 38%;
+    color: aliceblue;
+}
+button{
+width: 80px;
+margin-left: 10px;
+margin-top: 30px;
+color: rgb(184, 38, 38);
+background: #000;
+}
+ *{
+    background-color: rgb(192, 180, 204);
+ }
