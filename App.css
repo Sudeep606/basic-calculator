@@ -1,0 +1,29 @@
+.container-calc{
+    border: rgb(60, 24, 189) solid 3px;
+    width: 300px;
+    height: 400px;
+    margin-left: 38%;
+    color: aliceblue;
+    /* margin-top: 50px; */
+
+}
+button{
+width: 80px;
+margin-left: 10px;
+margin-top: 20px;
+color: rgb(184, 38, 38);
+background: #000;
+}
+*{
+    background-color: rgb(192, 180, 204);
+ }
+ .display{
+    height: 50px;
+    color: rgb(236, 56, 24);
+    background-color: rgb(231, 224, 224);
+    margin: 10px;
+ }
+h3{
+    font-weight: lighter;
+    font-family: cursive;
+} 
